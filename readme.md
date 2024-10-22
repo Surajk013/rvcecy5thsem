@@ -1,3 +1,2 @@
-cd 3rdyear/
-cd 5thsem/
+cd 3rdyear/ && cd 5thsem/
 
