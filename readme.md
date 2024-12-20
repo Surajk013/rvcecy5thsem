@@ -8,7 +8,7 @@ I need to study ## bro
 
 ![afterlunch](gifs/afterlunch.gif)
 
-some links I referred to --
+some links I referred to -- <br>
 ai -- [1](https://youtube.com/playlist?list=PL4gu8xQu0_5JrWjrWNMmXNx4zFwRrpqCR&si=8fx8lQil25zp3j-6) [2](https://youtube.com/playlist?list=PLxCzCOWd7aiHGhOHV-nwb0HR5US5GFKFI&si=wfZ98qeYOs_Oe5TU) <br>
 ml -- [1](https://youtube.com/playlist?list=PL4gu8xQu0_5JBO1FKRO5p20wc8DprlOgn&si=p6g4Ki1yqhZKPqpp) [2](https://youtube.com/playlist?list=PLxCzCOWd7aiEXg5BV10k9THtjnS48yI-T&si=kFD9IfhebTS3XkU0) <br>
 dbms -- [1](https://youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y&si=H_ErVB3-50Pfm3y3) [2](https://youtube.com/playlist?list=PLz8TdOA7NTzToibk7WXtD5qvBMnkZkwh7&si=7U5CI1UDYNpkdXNK) <br>
