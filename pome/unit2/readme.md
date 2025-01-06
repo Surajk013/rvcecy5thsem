@@ -90,7 +90,7 @@ Highlights:␍
 ●	Drive long-term success by aligning efforts with the organization's mission and vision.␍
 
 
-####	Tactical Planning␍
+####	Tactical Planning
 Definition:␍
 ●	Tactical planning focuses on what is going to happen. It breaks down high-level strategic plans into specific, focused, and short-term actions that support the broader strategy.␍
 Purpose:␍
