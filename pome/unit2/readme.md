@@ -63,7 +63,7 @@ Key Features:␍
 ●	Ensure consistency in handling recurring tasks.␍
 ●	Promote fairness and safety through clearly defined rules and procedures.␍
 
-![policiesstandardprocedureguidelines](../pics/planoperatoinal.png)
+![policiesstandardprocedureguidelines](../pics/planoperational.png)
 
 
 ####	Strategic Planning␍
@@ -112,7 +112,7 @@ Process:␍
 ❖	Ensures all tactical plans align with and support the strategic plan.␍
 
 
-[strategyvtactics](../pics/planstrategyvtactics.png)
+![strategyvtactics](../pics/planstrategyvtactics.png)
 
 
 ####	Contingency Planning␍
