@@ -54,7 +54,7 @@ Sandbox environments, virtual machines, trusted environments [trusted computing]
 
 Approach 3 : Detect and mitigate Attacks 
 
-![course structure](../pics/coursestructure.png)
+![course structure](../pics/coursestructure.png)<br>
 
 https://chetrebeiro@bitbucket.org/casl/sse.git
 
@@ -65,41 +65,41 @@ ELF - Executable Link Format
 ## Linker view 
 this view is for object files - has sectors - section header table
 gcc filename.c -c 
-![Linker view](../pics/linkedview.png)
+![Linker view](../pics/linkedview.png)<br>
 
 ### ELF header
 ```readelf -h filename.o```
-![ELF header](../pics/elfheader.png)
+![ELF header](../pics/elfheader.png)<br>
 
 Magic header is the elf idenfier
 
 
 ### Section header
 ```readelf -S filename.o ```
-![section header](../pics/sectionheader.png)
+![section header](../pics/sectionheader.png)<br>
 
 ## Executable view
 This is for executables - has segments so program header table 
 ```gcc hello.c -O hello ```
-![executable view](../pics/executableview.png)
+![executable view](../pics/executableview.png)<br>
 
 ## Program header
-![program header](../pics/programheader.png)
-![program header](../pics/programheadercontents.png)
+![program header](../pics/programheader.png)<br>
+![program header](../pics/programheadercontents.png)<br>
 
 ```readelf -l hello```
 
-![programheader actual](../pics/actualprogramheader.png)
+![programheader actual](../pics/actualprogramheader.png)<br>
 
 
 # Contents of the executable
 
 ```objdump --disassemble-all hello > hello.lst```
 
-![disassembly](../pics/disassembly.png)
+![disassembly](../pics/disassembly.png)<br>
 
 # Process virtual memroy map
-![virmemmap](../pics/virmemmap.png)
+![virmemmap](../pics/virmemmap.png)<br>
 
 
 # Stack frames
@@ -141,6 +141,7 @@ int takes 4 bytes
 Worm CODERED - released on 13th july 2001 
 infected 359000 computers by 19th july 
 targets microsoft's IIS webserver 
+![stackUsage](../pics/stackusage.png)<br>
 ![bufferoverflow](../pics/bufferoverflow.png)
 
 eip - instruction pointer 
