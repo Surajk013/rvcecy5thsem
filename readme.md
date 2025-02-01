@@ -10,6 +10,10 @@ yo BTW use pdfroom's a manga guide to - stuff like [linear algebra / databses ] 
 
 ![afterlunch](gifs/afterlunch.gif)
 
+
+The moment you understand this - you pass **TOC** <br>
+![toc-analogy](docs/toc-analogy.png)
+
 some links I referred to -- <br> <pre>
 ai -- [oneshot](https://youtu.be/yiXAmkimZRQ?si=Usym6PnxujQlkidl) [1](https://youtube.com/playlist?list=PL4gu8xQu0_5JrWjrWNMmXNx4zFwRrpqCR&si=8fx8lQil25zp3j-6) [2](https://youtube.com/playlist?list=PLxCzCOWd7aiHGhOHV-nwb0HR5US5GFKFI&si=wfZ98qeYOs_Oe5TU) <br>
 ml -- [oneshot](https://youtu.be/2oGsCHlfBUg?si=S0eVHm3iJybWnwW8) [1](https://youtube.com/playlist?list=PL4gu8xQu0_5JBO1FKRO5p20wc8DprlOgn&si=p6g4Ki1yqhZKPqpp) [2](https://youtube.com/playlist?list=PLxCzCOWd7aiEXg5BV10k9THtjnS48yI-T&si=kFD9IfhebTS3XkU0) <br>
