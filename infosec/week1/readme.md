@@ -1,63 +1,69 @@
-# Secure Systems
-- computer systems can be considered a closed box.
+---
+# Introduciton to Secure System Engineeing
+<br>
+- computer systems can be considered a closed box.<br>
 - Information in the box is safe as long as nothing enters or leaves the box
 
-# Viruses
+## Viruses
 - even with viruses, worms and spyware around, information is still safe as long as they do not enter the System 
 
-# Vulnerability
+## Vulnerability
 
 - A flaw that an attacker can use to gain access to a systems
 
-# Flaw
-- ## Design flaw<br>
+#### Flaw
+- ### Design flaw<br>
    ex: intel pentium's floating point bug [mid 19s]
     floating point operation would result in incorrent result
     exploited by cryptographer on cipher
 
-- ## Hardware flaws <br>
+- ### Hardware flaws <br>
    intentional hardware trojan by manufacturers, trigger and get access from the chip
   ex:   IC / process  / chip having hardware trojan
 
-- ## Human factors
+- ### Human factors
     spam emails
     embedded messages
 
-- ## Bugs in the program
+- ### Bugs in the program
     an executable that has a Vulnerability that can be exploited by an attacker
 
-# Programming Flaws [we focus on c / c++ , cuz lot of underlying libraries of most popular softare like kernel and vms are written in c]
+## Programming Flaws [we focus on c / c++ , cuz lot of underlying libraries of most popular softare like kernel and VMs are written in c]
 
-- In application software
-  SQL injection
+- In application software  
+ 1.SQL injection
+
+<br>
 
 - In system software
  1. buffer overflow and overheads
  2. Heap: double free, use after free
  3. Interger overflows
  4. format strings
-
+<br><br>
 - Side channel attacks [attacks on programs that are actually coded correctly]
  1. Cache timing attack
  2. Power Analysis attack
  3. Fault injection attack
 
 
-# Secure System Engineeing
+## Secure System Engineeing
 
-Approach 1 : Design flawless system
+**Approach 1** : Design flawless system <br>
 eg : SeL 4 
  (Not easy to develop these systems on a large scale)
 
-Approach 2 : Isolate Systems 
+**Approach 2** : Isolate Systems <br>
 Sandbox environments, virtual machines, trusted environments [trusted computing]
 
-Approach 3 : Detect and mitigate Attacks 
+**Approach 3** : Detect and mitigate Attacks 
 
 ![course structure](../pics/coursestructure.png)<br>
 
 https://chetrebeiro@bitbucket.org/casl/sse.git
 
+***
+***
 # Program Binaries
 
 when you compile a program you get the ELF file 
