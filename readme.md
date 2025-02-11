@@ -6,6 +6,10 @@ I don't claim to own the materials -- there are too many contrbutors to mention
 
 I need to study ## bro
 
+[aimllabtimetable](./docs/AIMLLabTimeTable.png)
+[dbmslabtimetable](./docs/DBMSLabTimeTable.png)
+[theorytimetable](./docs/theoryTimeTable.png)
+
 yo BTW use pdfroom's a manga guide to - stuff like [linear algebra / databses ] - By far the coolest stuff I have ever seen
 
 ![afterlunch](gifs/afterlunch.gif)
