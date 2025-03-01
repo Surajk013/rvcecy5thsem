@@ -16,7 +16,6 @@ Efficiency (resource usages) is the ability to minimize the use of resources in 
 
 ![difference between efficiency and effectiveness](../pics/effectivenessvefficiency.png)
 
-
 ## planning
 Planning is the basic function of management. It deals with chalking out afuturecourseofaction and deciding in advance the most appropriate course of actions for the achievement of pre-determined goals.
 

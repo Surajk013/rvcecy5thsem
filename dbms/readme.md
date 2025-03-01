@@ -1,3 +1,8 @@
+
+| SQL | [mariadb](./mariadb.md) | 
+| ------------- | -------------- | 
+
+
 # 1970 dataIndependence
 3 schema archietecture
 
