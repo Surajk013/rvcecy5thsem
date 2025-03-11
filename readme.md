@@ -14,6 +14,7 @@ yo BTW use pdfroom's a manga guide to - stuff like [linear algebra / databses ] 
 
 
 The moment you understand this - you pass **TOC** <br>
+Suraj's Hierarchy >>>>> Chomsky hierarchy <br><br>
 ![toc-analogy](docs/toc-analogy.png)
 
 some links I referred to -- <br> <pre>
